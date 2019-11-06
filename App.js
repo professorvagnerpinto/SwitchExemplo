@@ -1,6 +1,6 @@
 /**
  * Vídeo #5:Switch - Módulo 11 - React Native Intermediário - B7Web
- * Link para a documentação oficial: https://facebook.github.io/react-native/docs/scrollview
+ * Link para a documentação oficial: https://facebook.github.io/react-native/docs/switch
  */
 
 import React, {Component} from 'react';
